@@ -4,7 +4,7 @@ Simply program Encrypts and decrypts files using xor operation.
 Simply clone the repository and use make or mingw32-make(for Windows) to built an executable file.
 <h1> How to use? </h1>
 Type in the terminal:<br/>
-crypter <input_file> <output_file>
+<code> crypter input_file output_file </code>
 Where:<br/>
 input_file - path to the file you want to encode/decode<br/>
 output_file - name of the file that will be created as a result of encryption/decryption<br/><br/>
