@@ -1,7 +1,7 @@
 <h1> Description </h1>
 Simple program that encrypts and decrypts files using xor operation.
 <h1> Installing </h1>
-Simply clone the repository and use make or mingw32-make(for Windows) to built an executable file.
+Simple clone the repository and use make or mingw32-make(for Windows) to built an executable file.
 <h1> How to use? </h1>
 Type in the terminal:<br/><br/>
 <pre>
